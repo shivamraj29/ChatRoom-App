@@ -16,6 +16,7 @@ A real-time chatting application that allows users to send and receive messages,
 - **Jetpack Compose**: Modern UI toolkit for building native Android interfaces.
 - **Firebase**: Backend service for authentication and real-time database.
 - **Room Database**: Local database for caching user data and messages.
+- **MVVM Architecture**: Implements MVVM for a clean separation of UI, business logic, and data layers.
 
 ## Getting Started
 
