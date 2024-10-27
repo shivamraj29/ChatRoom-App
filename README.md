@@ -20,8 +20,8 @@ A real-time chatting application that allows users to send and receive messages,
 ## Getting Started
 
 ### Usage
-- 1) Launch App
-- 2)Sign in with your email and complete the email verification process.
-- 3) Add friends by sending friend requests.
-- 4)Manage your friend list and chat with friends in real time.
-- 5)Update your display picture in the profile settings.
+- Launch App
+- Sign in with your email and complete the email verification process.
+- Add friends by sending friend requests.
+- Manage your friend list and chat with friends in real time.
+- Update your display picture in the profile settings.
